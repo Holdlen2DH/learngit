@@ -1,4 +1,4 @@
-#创建版本
+#create repository
 mkdir learngit
 git init
 
